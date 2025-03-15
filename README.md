@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there! I'm Ujwal Gouda 👋
 
-<!--
-**ugouda/ugouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>About Me</b>
 
-Here are some ideas to get you started:
+I'm a passionate and curious B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML) at Srinivas University Institute of Engineering and Technology, Mangaluru. Currently, I'm in my 2nd semester and exploring the exciting world of AI, Machine Learning, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Location</b>
+
+🇮🇳 Uttarakannada, Karnataka, India
+
+<b>My Interests & Skills</b>
+
+<li>🔬 Machine Learning & AI (Currently Learning)</li>
+
+<li>💻 Web Development (React.js, Tailwind CSS, Bootstrap, HTML, CSS, JS)</li>
+
+<li>✍️ Pencil Drawing</li>
+
+<li>⚖️ Chess Enthusiast</li>
+<br>
+
+<b>Projects & Work</b>
+
+<li>🎵 <a href="ugouda.github.io/music-app/">Music App</a> - A music streaming platform</li>
+
+<li>📝 <a href="ugouda.github.io/Quizez/">Quizez</a> - A quiz-based web application</li>
+
+<br>
+
+<b>Learning Goals</b>
+
+🔄 Master Machine Learning & Generative AI | 🧠 Improve Problem-Solving Skills | 🗣️ Enhance Communication Skills
+
+<b>Let's Connect!</b>
+
+<li>👨‍💻 GitHub: @ugouda</li>
+
+<li>👨‍🎨 Instagram (Art): @ujwal.art</li>
+
+<li>✉ Email: ujwaldevrajgouda@gmail.com</li>
+<br>
+Thanks for visiting! Keep building, keep learning! 🌟
