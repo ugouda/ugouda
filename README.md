@@ -21,9 +21,9 @@ I'm a passionate and curious B.Tech student specializing in Artificial Intellige
 
 <b>Projects & Work</b>
 
-<li>🎵 <a href="ugouda.github.io/music-app/">Music App</a> - A music streaming platform</li>
+<li>🎵 <a href="ujwal-gouda.github.io/music-app/">Music App</a> - A music streaming platform</li>
 
-<li>📝 <a href="ugouda.github.io/Quizez/">Quizez</a> - A quiz-based web application</li>
+<li>📝 <a href="ujwal-gouda.github.io/Quizez/">Quizez</a> - A quiz-based web application</li>
 
 <br>
 
@@ -33,7 +33,7 @@ I'm a passionate and curious B.Tech student specializing in Artificial Intellige
 
 <b>Let's Connect!</b>
 
-<li>👨‍💻 GitHub: @ugouda</li>
+<li>👨‍💻 GitHub: @ujwal-gouda</li>
 
 <li>👨‍🎨 Instagram (Art): @ujwal.art</li>
 
