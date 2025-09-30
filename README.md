@@ -35,7 +35,7 @@ I'm a passionate and curious B.Tech student specializing in Artificial Intellige
 
 <li>👨‍💻 GitHub: @ujwal-gouda</li>
 
-<li>👨‍🎨 Instagram (Art): <a href="https://www.instagram.com/ujwal.art/">@ujwal.art</a></li>
+<li>👨‍🎨 Instagram (Art): <a href="https://www.instagram.com/ujwal.art/" target="_blank">@ujwal.art</a></li>
 
 <li>✉ Email: ujwaldevrajgouda@gmail.com</li>
 <br>
