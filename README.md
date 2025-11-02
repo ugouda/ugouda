@@ -23,7 +23,7 @@ I'm a passionate and curious B.Tech student specializing in Artificial Intellige
 
 <li>🎵 <a href="https://ujwal-gouda.github.io/music-app/">Music App</a> - A music streaming platform</li>
 
-<li>📝 <a href="https://ujwal-gouda.github.io/Quizez/">Quizez</a> - A quiz-based web application</li>
+<li>📝 <a href="https://ujwal-gouda.github.io/todoapp/">Todo App</a> - A Todo App build using Firebase Realtime Database</li>
 
 <br>
 
