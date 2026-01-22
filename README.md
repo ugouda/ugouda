@@ -2,7 +2,7 @@
 
 <b>About Me</b>
 
-I'm a passionate and curious B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML) at Srinivas University Institute of Engineering and Technology, Mangaluru. Currently, I'm in my 3rd semester and exploring the exciting world of AI, Machine Learning, and Software Development.
+I'm a passionate and curious B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML) at Srinivas University Institute of Engineering and Technology, Mangaluru. Currently, I'm in my 4th semester and exploring the exciting world of AI, Machine Learning, and Software Development.
 
 <b>Location</b>
 
