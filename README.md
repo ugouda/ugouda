@@ -1,42 +1,47 @@
-# Hi there! I'm Ujwal Gouda 👋
+# Hi, I'm Ujwal Gouda
 
-<b>About Me</b>
+## About Me
+B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML) at Srinivas University. Currently in 4th semester with hands-on experience in machine learning and web development. Interested in building real-world AI applications and full-stack projects.
 
-I'm a passionate and curious B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML) at Srinivas University Institute of Engineering and Technology, Mangaluru. Currently, I'm in my 4th semester and exploring the exciting world of AI, Machine Learning, and Software Development.
+## Location
+Uttarakannada, Karnataka, India
 
-<b>Location</b>
+## Skills
+- Machine Learning (Scikit-learn, Model Evaluation, Cross Validation)
+- Web Development (HTML, CSS, JavaScript, React.js, Firebase)
+- Data Processing (NumPy, Pandas)
+- Tools: Git
 
-🇮🇳 Uttarakannada, Karnataka, India
+## Projects
 
-<b>My Interests & Skills</b>
+### 1. House Price Prediction
+- Built a prediction model using Linear Regression, Decision Tree, and Random Forest
+- Used K-Fold Cross Validation for evaluation
+- Compared models using MSE and RMSE
+- Visualized results to identify best-performing model
 
-<li>🔬 Machine Learning & AI (Currently Learning)</li>
+### 2. Fake News Detection
+- Developed a fake news detection model using LSTM
+- Applied text preprocessing and feature extraction
+- Trained and evaluated model on news dataset
 
-<li>💻 Web Development (React.js, Tailwind CSS, Bootstrap, HTML, CSS, JS)</li>
+### 3. Todo App (Web Project)
+- Built a real-time Todo application using Firebase Realtime Database
+- Implemented CRUD operations with responsive UI
+- Developed using HTML, CSS, JavaScript
 
-<li>✍️ Pencil Drawing</li>
+## Interests
+- Machine Learning and AI
+- Web Development
+- Chess
+- Pencil Drawing
 
-<li>⚖️ Chess Enthusiast</li>
-<br>
+## Learning Goals
+- Strengthen Machine Learning fundamentals
+- Explore Generative AI
+- Improve problem-solving skills
 
-<b>Projects & Work</b>
-
-<li>🎵 <a href="https://ujwal-gouda.github.io/music-app/">Music App</a> - A music streaming platform</li>
-
-<li>📝 <a href="https://todoapp-8ae72.web.app/">Todo App</a> - A Todo App build using Firebase Realtime Database</li>
-
-<br>
-
-<b>Learning Goals</b>
-
-🔄 Master Machine Learning & Generative AI | 🧠 Improve Problem-Solving Skills | 🗣️ Enhance Communication Skills
-
-<b>Let's Connect!</b>
-
-<li>👨‍💻 GitHub: @ujwal-gouda</li>
-
-<li>👨‍🎨 Instagram (Art): <a href="https://www.instagram.com/ujwal.art/" target="_blank">@ujwal.art</a></li>
-
-<li>✉ Email: ujwaldevrajgouda@gmail.com</li>
-<br>
-Thanks for visiting! Keep building, keep learning! 🌟
+## Contact
+- GitHub: https://github.com/ujwal-gouda
+- Instagram (Art): https://www.instagram.com/ujwal.art/
+- Email: ujwalgouda22@gmail.com
