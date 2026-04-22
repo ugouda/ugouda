@@ -42,6 +42,7 @@ Uttarakannada, Karnataka, India
 - Improve problem-solving skills
 
 ## Contact
+- Portfolio: https://ujwal-gouda.github.io/portfolio/
 - GitHub: https://github.com/ujwal-gouda
 - Instagram (Art): https://www.instagram.com/ujwal.art/
 - Email: ujwalgouda22@gmail.com
