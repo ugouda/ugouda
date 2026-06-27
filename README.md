@@ -1,7 +1,7 @@
 # Hi, I'm Ujwal Gouda
 
 ## About Me
-B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML) at Srinivas University. Currently in 4th semester with hands-on experience in machine learning and web development. Interested in building real-world AI applications and full-stack projects.
+B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML) at Srinivas University. Currently in 5th semester with hands-on experience in machine learning and web development. Interested in building real-world AI applications and full-stack projects.
 
 ## Location
 Uttarakannada, Karnataka, India
